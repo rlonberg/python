@@ -1,0 +1,8 @@
+run the script, getNBA.py
+
+Part of a larger iOS project I am currently developing, getNBA.py does a simple task: fetches the NBA schedule for today and tomorrow, giving you the matchups and the vegas lines/predictions for each matchup.
+
+getNBA.py uses Game.py, make sure that both are in the same directory when calling getNBA.py
+
+
+*** the XML feed that I currently pull from is pretty messed up right now from leap day! The days are currently off by 1. I haven't adjusted my script because I expect the vegas feed to fix this mistake in a few days but be warned!
